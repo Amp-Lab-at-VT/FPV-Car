@@ -1,26 +1,28 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
-
-## Repo Link
-<a class="button is-link" href="https://magicmirror.builders/" >https://magicmirror.builders/</a>
+Farhan Zaman, General Engineering Student (2026)
+farhanz@vt.edu
 
 ## Photo
 {% include youtube.html video="miltuOLWDFQ" %}
 
 ## Mentor
-Josh Sutton, Electrical Engineering 2021
+Henry Forsyth, Computer Engineering 2024
 
 ## Current Status
-Complete
+Running
 
 ## Project Overview
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+FPV Car is a Robot Car that will be built to be controlled over kilometers away varying by physical and non-physical (frequency) interference. The FPV Car is build 
+that would also be a part of the Virginia Tech Campus. The Car would have about 8-12 channels with functions that would be built, wired, or programmed in. The driving 
+of the car would be done through radio that will be modified to run neccessary operations and will be built to run on a frequency level on the lower end. THe video 
+transmission for the need of seeing the car through (FPV) will be through a video transmission and recieving system either on the bands between 5.6-6.0ghz or a lower 
+band depending on whichever frequency is found to have the best balance between penetration, range, and quality. This car is also something that will/can be used as an on campus known robot that is cabale to interacting with students as well.
 
 ## Educational Value Added
-
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+THe building of the FPV Car would advance knowledge and experience in the field of working with video and radio frequencies, on the higher (6ghz) and lower (min: 
+413mhz) end. Skills such as soldering, wiring, programming, and building would also be worked upon and expanded. The understanding of banding penetration, latency, 
+and interference would be built upon. There are also other individual skills that would be learned such as building cooling units/systems, reprogramming car esc, 
+motor timing
 
 ## Tasks
 
